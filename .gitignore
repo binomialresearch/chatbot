@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Model files
+*.h5
+*.pkl
+
+# Data files
+data/
+*.npy
+
